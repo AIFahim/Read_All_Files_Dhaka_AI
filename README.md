@@ -19,3 +19,19 @@ Linkedin: https://www.linkedin.com/in/AIFahim/ </br>
 Email: asif.iqbal.fahim.bd@gmail.com <br>
 
 <hr>
+
+#### [Dhaka AI Traffic  Challenge](https://dhaka-ai.com/index) Datasets Link :
+   - [ Competition Dataset ](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/POREXF)
+   - [ YoloV5 Formatted Dataset ](https://www.kaggle.com/aifahim/dhakaaiyoloformatteddataset)
+
+<hr>
+
+#### Check out [Dhaka AI Traffic  Challenge](https://dhaka-ai.com/index) YoloV5 Solution : 
+   - [ YOLO V5 Solution by Team Autobot](https://github.com/AIFahim/Yolo-V5-Version-of-Dhaka-AI) 
+
+
+<hr>
+
+## Trained weight files are available in Kaggle. Check out [Link ](https://www.kaggle.com/aifahim/dhaka-ai-traffic-challenge-weights-yolov5)
+
+<hr>
